@@ -106,3 +106,4 @@ out=socket.getOutputStream();
 System.out.println("Server Condtruction IOEx:"+e);
 }
 }}
+//get io exception
